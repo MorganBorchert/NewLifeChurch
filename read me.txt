@@ -77,4 +77,6 @@ Footer
 ============
 �	A nav is located in the footer
 �	There is also contact and location information
-�	
+
+
+�	The google map works on download but not in github
