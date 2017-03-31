@@ -1,0 +1,80 @@
+++++++++++++++++++++++
+Design decisions 
+++++++++++++++++++++++
+�	Choosing to left align text to make readability easier. 
+�	Use contrasting colours to make text readable. 
+�	Borders 
+�	We put a border around the form so it is more contrasting to the white background
+�	Felt that the staff and mission pages were better organized if the pictures were placed like how we have them.
+�	
+
+
+
+====================
+Home
+====================
+�	Left aligned the text under main heading and video
+�	At the bottom there are buttons leading to the about and the worship pages so if a person is curious they can click them to learn more
+�	Video is in the center of the page
+
+
+===================
+About
+===================
+�	The about page gives the viewer info
+�	They can find the mission statement and staff here too
+�	There is a brief section on them and the person viewing can either place the mouse over about on the nav bar to get there or get there by the buttons
+
+
+==================
+Mission statement
+==================
+�	This page tells the church's goal
+�	Uses a  bulleted  list to share inspirational biblical passages
+�	
+
+
+==================
+Staff 
+==================
+�	The staff page is organized in a way where one photo is on the left and one is on the right
+�	There is a grey background added to each to help with contrast
+�	
+
+
+=================
+Worship
+=================
+�	Border around the picture to pop it off of the background
+�	More info is found to the right, which leads to the service times and missions
+
+
+===============
+Service times
+===============
+�	Gives the viewer the times and days that the church meets
+�	Bulleted list used for organization 
+
+
+===============
+Missions
+===============
+ �	Photos and info aranged to help with organization		
+ �	And again, bg added to contrast against the page
+ �		
+
+
+=============   
+Contact
+=============
+�	Use a map to show the location	
+�	The info is placed to the right of the map and linked 
+�	The first one links to the location of the church the second and third link to phone number and email
+
+
+============
+Footer
+============
+�	A nav is located in the footer
+�	There is also contact and location information
+�	
